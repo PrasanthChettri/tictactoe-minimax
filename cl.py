@@ -2,6 +2,7 @@ import msvcrt
 from os import system
 from os import sys
 from hna import comp
+#TODO : Make GUI this shit is n00b
 #__________________________________________________________________________________
 class game:
 	def __init__(self):
